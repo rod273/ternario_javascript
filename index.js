@@ -1,3 +1,5 @@
+// (condicao) ? 'valor verdadeiro' : 'valor falso'
+
 const pontuacaoUsuario = 1999;
 const nivelUsuario =  pontuacaoUsuario >= 1000 ? 'usuario vip' : 'usuario normal';
 console.log(nivelUsuario);
